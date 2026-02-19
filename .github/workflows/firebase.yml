@@ -24,4 +24,4 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
           channelId: live
-          projectId: SEU_ID_DO_FIREBASE
+          projectId: financas-em-dia-adf1b
